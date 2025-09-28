@@ -20,16 +20,3 @@ It helps in understanding sales performance, customer behavior, and business ins
 - **GitHub** – for project version control & sharing  
 
 ---
-## Prject structure 
-Amazon-Sales-Dashboard/
-│
-├── data/ # Dataset used for analysis
-│ └── amazon_sales.csv
-│
-├── dashboard/ # Tableau workbook
-│ └── Amazon_Sales_Dashboard.twbx
-│
-├── images/ # Screenshots of dashboard
-│ └── dashboard_preview.png
-│
-└── README.md # Project documentation
